@@ -1,1 +1,2 @@
 # odin-recipes
+This project will invole building a basic recipe website using basic html tags such as paragraphs, headers, links, and images. The website will have a main page with a couple of links to recipes
