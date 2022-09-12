@@ -1,0 +1,27 @@
+#title{
+    font-weight: lighter;
+    color: darkgreen;
+    background-color: lightpink;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Times New Roman'
+}
+
+img{
+    width: 800px;
+    height: auto;
+}
+h2{
+    background-color: blueviolet;
+    color: brown;
+    text-align: center;
+    font-weight: bold;
+}
+p{
+   font-weight: bold; 
+   font-family: sans-serif;
+}
+
+ol li{
+    font-size: 50px;
+}

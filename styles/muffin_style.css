@@ -1,0 +1,22 @@
+* {
+    color:deepskyblue;
+}
+
+h1, h2 {
+    background-color: aquamarine;
+    font-size: 100px;
+    text-align: center;
+    font-family: cursive;
+}
+
+.steps li {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+}
+
+#ingredient li{
+    font-size: large;
+    text-align: right;
+    background-color: lawngreen;
+}
